@@ -1,0 +1,8 @@
+data-sci-workshop.Rproj
+.Rproj
+.Rhistory
+.RData
+.Rproj.user/
+
+#suppress data_clean/
+data_clean/
