@@ -1,0 +1,6 @@
+.Rproj.user
+*.Rproj # This is telling r to ignore all files of this type
+.Rhistory
+
+# Supppress data_clean/
+data_clean/
